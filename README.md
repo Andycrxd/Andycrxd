@@ -12,7 +12,8 @@ Me enfoco en aprender, practicar y mejorar constantemente mis habilidades en pro
 ## 💻 Tecnologías
 - Lenguaje C  
 - Java  
-- Git y GitHub  
+- Git y GitHub
+- lenguaje ensamblador (MARIE Assembly Language)
 
 ---
 
