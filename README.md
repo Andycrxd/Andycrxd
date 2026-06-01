@@ -23,6 +23,12 @@ Me enfoco en aprender, practicar y mejorar constantemente mis habilidades en pro
 - Mejora continua como desarrollador  
 
 ---
+## 📜 Certificaciones
+
+- Introducción a la Programación en Python – Santander Open Academy
+  - Estado: Completado
+  - Certificado: [Ver constancia](./508_andypalomares40@gmail.com.pdf)
+---
 
 ## 🎯 Objetivo
 Crecer como desarrollador y crear proyectos útiles mientras sigo aprendiendo nuevas tecnologías.
