@@ -12,9 +12,11 @@ Me enfoco en aprender, practicar y mejorar constantemente mis habilidades en pro
 ## 💻 Tecnologías
 - Lenguaje C  
 - Java  
+- Python
+- Lenguaje Ensamblador x86
+- MARIE Assembly Language
 - Git y GitHub
-- lenguaje ensamblador (MARIE Assembly Language)
-
+  
 ---
 
 ## 📚 En qué estoy trabajando
