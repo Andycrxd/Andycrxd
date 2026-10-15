@@ -49,7 +49,7 @@ Soy estudiante de **Ingeniería de Software y Tecnologías Emergentes**. Me apas
 
 * 🐍 **Introducción a la Programación en Python** – *Santander Open Academy*
   * **Estado:** Completado ✅
-  * **Constancia:** [Ver Certificado](./certificado-python.pdf) 
+  * **Constancia:** [Ver Certificado](./508_andypalomares40@gmail.com.pdf) 
 
 ---
 
